@@ -24,4 +24,6 @@ These repositories are showcase pages that describe what each project does. The 
 ## Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/abishek-f-151708222)
+- [Portfolio](https://abishekfrk.github.io)
+- Based in Bengaluru. Open to roles in Bengaluru or Chennai.
 - Open to interesting geospatial and full-stack work. Message me for demos or collaboration.
